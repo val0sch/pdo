@@ -50,7 +50,3 @@ if (isset($_POST["submit"])) {
     <div><label for="lastname">Lastname: </label><input type="text" id="lastname" name="lastname" required></div>
     <button type="submit" name="submit">Envoyer</button>
 </form>
-<div>
-
-
-</div>
